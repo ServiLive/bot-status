@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "ignoreDeprecations": "5.0",
+      "outDir": "./dist"
+    },
+    "extends": "@tsconfig/node18-strictest/tsconfig.json"
+  }
